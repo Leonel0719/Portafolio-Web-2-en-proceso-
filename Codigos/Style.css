@@ -1,0 +1,36 @@
+header {
+    background-color: #4b73e2;
+    color: #000000;
+    display: flex;
+    font-family: fantasy;
+    text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5), 4px 4px 5px rgba(0, 0, 0, 0.7), 0px 0px 7px rgba(0, 0, 0, 0.4);
+    justify-content: space-between;
+    border-width: 10px;
+    padding-top: 0px;
+    padding-left: 2%;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #353535;
+    background: #f2f2f2;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+section h3 {
+    font-family: fantasy;
+    font-size: 22px;
+    padding-left: 2%;
+}
+
+.sobre h3 {
+    padding-left: 45%;
+}
+
+.buttons a {
+    padding-left: 2%;
+}
